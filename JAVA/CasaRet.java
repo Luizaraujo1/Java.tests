@@ -1,7 +1,7 @@
 class CasaRet {
 	public static void main (String[] args) {
-		System.out.println("Hello World\n");
-		System.out.println("Ya");
+		System.out.println("Prgrama para cálculo da área da casa\n");
+
 		}	
 	
 	}	
